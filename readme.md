@@ -3,9 +3,9 @@
 
 <h3> Create the different apps </h3>
 <ul>
-<li>python.manage.py startapp auth</li>
-<li>python.manage.py startapp albums</li>
-<li>python.manage.py startapp songs</li>
+<li>python manage.py startapp auth</li>
+<li>python manage.py startapp albums</li>
+<li>python manage.py startapp songs</li>
 </ul>
 
 <h3> Migrate admin, auth, contenttypes, sessions </h3>
